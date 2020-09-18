@@ -8,7 +8,7 @@
 
     #Have multiple words instead of just one (create sentences or phrases, but that'd be a whole new website source)
 
-#AMBITIOUS: If I really want to challenge myself, I could greate a website or app to play with visuals and crap
+#AMBITIOUS: If I really want to challenge myself, I could create a website or app to play with visuals and crap
 
 import random
 import urllib.request
